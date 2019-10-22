@@ -20,3 +20,10 @@ Entirely helplessly, the software arrives on a small disc, and I have not been a
 It runs natively with opencv, so you'll have a grand ol' time if you need to implement it in a setup somewhere.
 
 This might also be relevant for the astronomy community; if you need an unimpressive, low-cost, compact and easily interfaced camera, this has my recommendations. It fits well into python.
+
+
+# Instructions for use
+
+It's really very simple. If the script starts up, you can select the camera index, to show the two cameras. The slider at the bottom selects what you see; either A or B, or a combination of the two. The flip button will flip the image field of camera A.
+
+It should behave gently if you select a camera index that is not occupied. 
