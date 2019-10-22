@@ -12,7 +12,7 @@ class MainWindow(QMainWindow):
         uic.loadUi('gui.ui', self)
         self.show()
 
-        self.indexApos = 2
+        self.indexApos = 0
         self.indexBpos = 1
 
         self.set_inputs(self.indexApos, self.indexBpos)
